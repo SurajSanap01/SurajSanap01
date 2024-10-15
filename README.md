@@ -4,7 +4,7 @@
 <h3 align="center">A passionate AI/ML and Data Science</h3>
 
 
-- 🔭 I’m currently working on [College.ai](https://github.com/SurajSanap/College.ai-main)
+- 🔭 I’m currently working on [College.ai](https://github.com/SurajSanap01/College.ai)
 
 - 🌱 I’m currently learning **Django, DeepLearning, DSA**
 
