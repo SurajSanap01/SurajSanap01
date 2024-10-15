@@ -3,6 +3,7 @@
 
 <h3 align="center">A passionate AI/ML and Data Science</h3>
 
+- My previous account has been suspended, and I am currently awaiting resolution.
 - 🔭 I’m currently working on [College.ai](https://github.com/SurajSanap/College.ai-main)
 
 - 🌱 I’m currently learning **Django, DeepLearning, DSA**
