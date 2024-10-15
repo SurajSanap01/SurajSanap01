@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, ML, AWS, Java**
 
-- 📫 How to reach me **surajsanapcontact@gmail.com**
+- 📫 How to reach me **surajsanap.nbnstic.it@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yRK5howE9A9gEqloObmmW4nXD563wztX/view?usp=drive_link)
 
