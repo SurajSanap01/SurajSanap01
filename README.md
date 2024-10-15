@@ -1,9 +1,9 @@
+- My previous account has been suspended, and I am currently awaiting resolution.
 ![GithubPoster](https://github.com/user-attachments/assets/e10a0b85-8c39-4ee1-a52f-38e17b25df8b)
-
 
 <h3 align="center">A passionate AI/ML and Data Science</h3>
 
-- My previous account has been suspended, and I am currently awaiting resolution.
+
 - 🔭 I’m currently working on [College.ai](https://github.com/SurajSanap/College.ai-main)
 
 - 🌱 I’m currently learning **Django, DeepLearning, DSA**
