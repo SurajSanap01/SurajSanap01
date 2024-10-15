@@ -61,8 +61,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+
+
+    ![image](https://github.com/user-attachments/assets/34d9527a-6a14-49c9-8b46-938ef3df95fa)
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
 </p>
 
 
+Previous account
+![image](https://github.com/user-attachments/assets/78510996-2634-4c00-b614-9a3eb9ed67b0)
