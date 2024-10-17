@@ -1,5 +1,7 @@
-- My previous account has been suspended, and I am currently awaiting resolution.
-- <span align="center" style="color: red;">My previous account has been suspended, and I am currently awaiting resolution.</span>
+<div align="center" style="color: red;">
+  - My previous account has been suspended, and I am currently awaiting resolution.
+</div>
+
 
 ![GithubPoster](https://github.com/user-attachments/assets/e10a0b85-8c39-4ee1-a52f-38e17b25df8b)
 
