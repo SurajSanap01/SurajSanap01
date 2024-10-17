@@ -1,5 +1,5 @@
 <div align="center" style="color: red;">
-  My previous account has been suspended, and I am currently awaiting resolution.
+  My previous account has been **suspended**, and I am currently awaiting resolution.
   
 </div>
 
